@@ -5,7 +5,7 @@
 
 ## GHGA Test Datasets
 
-**seqc2_somatic_calling**: Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/). 
+**seqc2_somatic_calling**: Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
 
 Includes 2 pairing files: 
 
