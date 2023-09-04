@@ -5,17 +5,24 @@
 
 ## GHGA Test Datasets
 
-**seqc2_somatic_calling**:This dataset is suitable for indel calling analysis Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
+**seqc2_somatic_calling**:This dataset is suitable for ghga-de/nf-platypusindelcalling analysis. Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
 
 Includes 2 pairing files: 
 
 1. tumor: WES_LL_T_1_test 
 2. normal: WES_LL_N_1_test
 
-**seqc2_testdata_snv**:This dataset is suitable for snv calling analysis Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
+**seqc2_testdata_snv**:This dataset is suitable for ghga-de/nf-snvcalling analysis. Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
 
 1. tumor: WES_LL_T_1_test 
 2. normal: WES_LL_N_1_test
+3. reads/ fastq reads produced using bam2fastq
+
+**seqc2_testdata_aceseq**:This dataset is suitable for ghga-de/nf-aceseq analysis. Test files downsized from [SEQC2 study](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/tools/NGS_Preprocessing_Pipeline/) aligned with hg38. 
+
+1. tumor: WES_LL_T_1_test 
+2. normal: WES_LL_N_1_test
+   
 ## Contributions and Support
 
 Kuebra Narci kuebra.narci@dkfz-heidelberg.de
